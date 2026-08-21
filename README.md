@@ -1,16 +1,29 @@
-## Hi there 👋
+# E aí, eu sou o Ícaro! 👋
 
-<!--
-**icaronathan12/icaronathan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 2º período de **Ciência da Computação** e um cara muito curioso sobre como a tecnologia funciona na sua essência.
 
-Here are some ideas to get you started:
+Esse GitHub não é um portfólio de um especialista, mas sim o meu **laboratório pessoal**. É aqui que eu guardo meus testes, meus erros e o que estou construindo enquanto aprendo a programar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Meu foco agora
+Atualmente, estou me dedicando a construir uma base sólida em **Python** e Lógica de Programação. Mais para frente, meu objetivo é explorar o mundo de **Cyber Security** e Redes.
+
+### 🛠️ O que tem por aqui
+Estou subindo aos poucos os códigos que venho desenvolvendo:
+- 🤖 **Agente de IA:** Um agente de inteligência artificial que construí em Python.
+- 🛒 **Sistema de Mercado:** Um projeto em Python simulando a lógica de funcionamento de um mercado.
+- 📚 **Estudos da Faculdade:** Meus resumos, exercícios e anotações do curso de Computação.
+
+### 🚀 O que estou usando no momento
+*(Começando a explorar o básico de versionamento e terminal)*
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📬 Bora trocar uma ideia?
+Seja para falar sobre tecnologia, código, segurança, me chama aqui:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/%C3%ADcaro-nathan-4757453b8/])
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:icaronathan570@gmail.com)
