@@ -1,11 +1,11 @@
 # E aí, eu sou o Ícaro! 👋
 
-Sou estudante do 2º período de **Ciência da Computação** e um cara muito curioso sobre como a tecnologia funciona na sua essência.
+Sou estudante do 3º período de **Ciência da Computação** e um cara muito curioso sobre como a tecnologia funciona na sua essência.
 
 Esse GitHub não é um portfólio de um especialista, mas sim o meu **laboratório pessoal**. É aqui que eu guardo meus testes, meus erros e o que estou construindo enquanto aprendo a programar.
 
 ### 💻 Meu foco agora
-Atualmente, estou me dedicando a construir uma base sólida em **Python** e Lógica de Programação. Mais para frente, meu objetivo é explorar o mundo de **Cyber Security** e Redes.
+Atualmente, estou me dedicando a construir uma base sólida em **Python** e Lógica de Programação. Mais para frente, meu objetivo é explorar o mundo de **Cyber Security**, Redes e Análise de Dados.
 
 ### 🛠️ O que tem por aqui
 Estou subindo aos poucos os códigos que venho desenvolvendo:
