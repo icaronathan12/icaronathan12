@@ -10,7 +10,7 @@ Atualmente, estou me dedicando a estudar **Java** (Programação Orientada a Obj
 ### 🛠️ O que tem por aqui
 Estou subindo aos poucos os códigos que venho desenvolvendo:
 - ☕ **Estudos em Java:** Exercícios de POO, encapsulamento, coleções (`ArrayList`) e estruturas de dados.
-- 🤖 **Gestor de Despesas:** Um gestor de despesas que estou construindo em Python.
+- 🤖 **Gestor de Despesas:** Um gestor de despesas que construí em Python.
 - 🛒 **Sistema de Mercado:** Um projeto em Python simulando a lógica de funcionamento de um mercado.
 - 📚 **Estudos da Faculdade:** Meus resumos, exercícios e anotações do curso de Computação.
 
